@@ -1,0 +1,45 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px;
+    padding: 20px;
+    position: fixed;
+    overflow: visible;
+    background-image: linear-gradient(lightgray, white);
+}
+.Navbar-ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.Navbar-li{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+    margin-bottom: 40px;
+}
+.Navbar-li:hover a{
+    color: red;
+}
+a{
+    color: black;  
+    text-decoration: none;
+}
+.p{
+    color: red;
+    font-size: 48px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.Name{
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    padding: 0px;
+}
+.navbar-items{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}

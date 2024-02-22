@@ -1,0 +1,31 @@
+.Experience{
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px; /* Adjust according to navbar height */
+    margin-right: 0px;
+    padding: 20px;
+}
+
+.Experience-info{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 0px;
+}
+
+.ul{
+    list-style: circle;
+    margin: 5px;
+
+}
+.li{
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    margin: 2px;
+
+}
+
+.description{
+    margin: 3px;
+}

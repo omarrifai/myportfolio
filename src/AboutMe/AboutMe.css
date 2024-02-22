@@ -1,0 +1,27 @@
+.AboutMe{
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px; /* Adjust according to navbar height */
+    margin-right: 0px;
+    padding: 20px;
+}
+
+.AboutMe-description{
+    display: flex;
+    flex-direction: column;
+}
+
+.AboutMe-description-details{
+    display: flex;
+
+}
+.AboutMe-Paragraph{
+    color: black;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image{
+    width: 20%;
+    border-radius: 0%;
+}

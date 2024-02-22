@@ -1,0 +1,28 @@
+.Contact{
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px; /* Adjust according to navbar height */
+    margin-right: 0px;
+    padding: 20px;
+}
+
+.ContactUsDesc{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ContactUsDesc-Detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.ContactUsDesc-Detail span{
+    padding: 10px;
+}
+
+.Icon{
+    font-size: 24px;
+}
